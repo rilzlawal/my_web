@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Arrow" transform="translate(0 32) rotate(-90)">
+    <rect id="wrap" width="32" height="32" fill="#099494" opacity="0"/>
+    <path id="Path_40" data-name="Path 40" d="M335.547,22.225a1.35,1.35,0,0,1-1.01-.453L323.494,9.38,312.452,21.772a1.353,1.353,0,0,1-2.021-1.8L322.485,6.448a1.394,1.394,0,0,1,2.018,0l12.054,13.525a1.353,1.353,0,0,1-1.01,2.252Z" transform="translate(-307.263 2.121)" fill="#099494"/>
+  </g>
+</svg>
